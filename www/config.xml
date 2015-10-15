@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegapbuild.test"
+        version   = "1.0.0">
+
+    <name>Minimal App</name>
+
+    <description>
+        This is a minimal PhoneGap app.
+    </description>
+
+    <author href="http://build.phonegap.com" email="build@phonegap.com">
+        PhoneGap Build
+    </author>
+    
+    <icon src="icon.png" />
+
+</widget>
